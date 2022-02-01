@@ -4,7 +4,7 @@ import { Link } from '@reach/router'
 const Red = (props) => {
     return(
     <>
-        <h3 style={{color: "red"}}>The word is: Red</h3>
+        <h3>The word is: hello</h3>
         <Link to="/">Go to Main Page</Link>
 
     </>

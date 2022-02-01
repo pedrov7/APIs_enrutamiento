@@ -1,7 +1,7 @@
 import react from "react";
 import { Link } from '@reach/router'
 
-const Hello = props => (
+const Home = props => (
         <>
     <h1>Welcome</h1>
     <br/>
@@ -9,4 +9,4 @@ const Hello = props => (
     </>
    )
 
-export default Hello;
+export default Home;
